@@ -1,0 +1,65 @@
+body{
+    background-color:black;
+    width:1000px;
+    background-repeat: no-repeat;
+    z-index: -1;
+    background-size: 1000px 800px;
+}
+#windows{
+    width:250px;
+    height:150px;
+    margin-top:200px;
+    margin-left:300px;
+    background-color: white;
+    border:solid 6px grey;
+    border-radius: 5px;
+    text-align: center;
+    background-color:rgba(214,206,206,0.5);
+}
+#windows h1{
+    color:orange;
+    box-shadow: 2px white;
+    text-align: center;
+    text-shadow: 2px 2px white;
+}
+#windows select{
+    width:100px;
+}
+#arena{
+    width:250px;
+    height:150px;
+    margin-top:200px;
+    margin-left:300px;
+    background-color: rgb(214, 206, 206);
+    border:solid 6px grey;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+#arena h1{
+    color:orange;
+    box-shadow: 2px white;
+    text-align: center;
+    text-shadow: 2px 2px white;
+    margin-bottom: 3px;
+}
+#arena button{
+    width:70px;
+    height:40px;
+    border-radius: 4px;
+}
+#player1{
+    margin-top:200px;
+    width:150px;
+    margin-right:600px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    z-index: 1;
+}
+#player2{
+    margin-top:0px;
+    width:150px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    z-index: 1;
+}

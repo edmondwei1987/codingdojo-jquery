@@ -1,0 +1,35 @@
+.wrapper {
+    border-bottom: solid 1px black;
+    padding-bottom: 20px;
+}
+
+.button {
+    height: 40px;
+    width: 150px;
+    border: solid 1px black;
+    border-radius: 5px;
+    background-color: rgb(43, 43, 172);
+    display: inline-block;
+    margin-left: 40px;
+    margin-top: 55px;
+    vertical-align: top;
+    color:white;
+    font-size:25px;
+}
+
+.head {
+    display: inline-block;
+    margin-left: 30px;
+}
+.red {
+    color:red;
+}
+#circle{
+    background-color: yellow;
+    color:black;
+    width:60px;
+    height:60px;
+    border-radius: 30px;
+    font-size: 13px;
+    text-align: center;
+}

@@ -1,0 +1,21 @@
+#form th{
+    text-align: right;
+}
+#info td,#info th{
+    border:solid 1px black;
+    width:200px;
+}
+#title{
+    border-bottom:solid 1px black;
+    width:300px;
+    margin-top:15px;
+    margin-bottom: 10px;
+    font-size: 20px; 
+}
+#adduser{
+    width:100px;
+    height:30px;
+}
+#button{
+    text-align: right;
+}
